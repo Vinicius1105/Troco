@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user\\Documents\\Troco\\Troco.csproj": {}
+    "C:\\Users\\user\\Documents\\pc1\\troco\\Troco.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user\\Documents\\Troco\\Troco.csproj": {
+    "C:\\Users\\user\\Documents\\pc1\\troco\\Troco.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user\\Documents\\Troco\\Troco.csproj",
+        "projectUniqueName": "C:\\Users\\user\\Documents\\pc1\\troco\\Troco.csproj",
         "projectName": "Troco",
-        "projectPath": "C:\\Users\\user\\Documents\\Troco\\Troco.csproj",
+        "projectPath": "C:\\Users\\user\\Documents\\pc1\\troco\\Troco.csproj",
         "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user\\Documents\\Troco\\obj\\",
+        "outputPath": "C:\\Users\\user\\Documents\\pc1\\troco\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

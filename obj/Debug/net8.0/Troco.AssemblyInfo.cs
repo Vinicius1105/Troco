@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Troco")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa4afd16ae1c329eef05436e889f8b20bd4c038a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Troco")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Troco")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
